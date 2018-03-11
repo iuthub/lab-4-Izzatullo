@@ -1,0 +1,5 @@
+Izzatullo,SOCIE,1234567,Visa
+Sunnat,SOL,7777777,Visa
+Abdulmalik,Pre University,1111111,MasterCard
+Izzatullo,SOCIE,1234567,MasterCard
+Ravshan,SOCIE,1010101,MasterCard
